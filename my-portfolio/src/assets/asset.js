@@ -17,6 +17,11 @@ import ayesha from "./Ayesha Siddika.jpeg"
 import ticket_flight from "./Ticket Flight .jpeg"
 import travel_app from "./Travel app .jpeg"
 import travel_mobile from "./Travel mobile.jpeg"
+import video from "./youtube.png"
+import mobile from "./smartphone-call.png"
+import desktop from "./computer.png"
+import program from "./coding.png"
+
 
 export const assets = {
     mohammed, 
@@ -36,5 +41,9 @@ export const assets = {
     ticket_flight,
     travel_app,
     travel_mobile,
+    video,
+    mobile,
+    desktop,
+    program,
 }
 
