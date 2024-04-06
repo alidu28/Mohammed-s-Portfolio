@@ -38,9 +38,7 @@ function Services() {
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quis non odio veniam aut doloremque, et tempore dolores porro perspiciatis sit enim molestias illo facilis nesciunt fugit placeat voluptatem corrupti. Dicta ea rem iusto autem numquam quod, mollitia quis officia sed. Nemo quos iste tempore.
                     </p>
                 </div>
-            </div>
 
-            <div className="service-contain">
                 <div className="desktop">
                     <div className="desktop-img">
                     <span>
@@ -71,7 +69,6 @@ function Services() {
                     </p>
                 </div>
             </div>
-
         </div>
     </div>
   )

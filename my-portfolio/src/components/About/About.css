@@ -1,6 +1,6 @@
 .about {
   position: relative;
-  left: 5%;
+  left: 6%;
   margin: 130px 0 140px 0;
 }
 
@@ -15,13 +15,13 @@
   border-radius: 7px;
   position: relative;
   z-index: 0;
-  min-width: 320px;
+  min-width: 380px;
   min-height: 410px;
 }
 
 #about-img {
   height: 410px;
-  width: 320px;
+  width: 380px;
   border-radius: 7px;
   z-index: 1;
   position: absolute;
